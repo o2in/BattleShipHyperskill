@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship with Java/*
+!/Battleship with Java/task/
+/Battleship with Java/task/*
+!/Battleship with Java/task/src
+
+# Project exclude paths
+/Topics/Combining constants with enum/Enum weekday from integer input/out/
+/Topics/Combining constants with enum/Enum weekday from integer input/out/production/classes/
+/Topics/Combining constants with enum/Hidden enumeration/out/
+/Topics/Combining constants with enum/Hidden enumeration/out/production/classes/
